@@ -12,8 +12,4 @@
 - ☯ 来自中国
 - 📖 一个正在初中上学的学生~
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrisTHL181/KrisTHL181/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrisTHL181/KrisTHL181/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KrisTHL181/KrisTHL181/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://raw.githubusercontent.com/KrisTHL181/KrisTHL181/assets/github-contribution-grid-snake.svg)
