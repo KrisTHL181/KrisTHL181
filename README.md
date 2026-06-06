@@ -7,8 +7,10 @@
 
 ## 🌟 My Github
 
-![](https://github-readme-stats.vercel.app/api?username=KrisTHL181&show_icons=true&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisTHL181&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats-henrymei.vercel.app/api?username=KrisTHL181&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats-henrymei.vercel.app/api/top-langs/?username=KrisTHL181&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" />
+</div>
 
 ## 💬 About Me
 - ☯  来自中国
